@@ -15,3 +15,6 @@ da beim build die fehlermeldung; armclang BAD CPU type in executable erscheint.
 Der verwendete Compiler ist AC6/armclang. clang selbst ist installiert und funktioniert, jedoch startet armclang auf dem Mac nicht.
 
 Dadurch konnten Build, Debugging und das Testen auf dem ITS-Board nicht durchgeführt werden.
+
+PS: es hat doch geklapptm musste nur rosetta runterladen damit er das übersetz für meinen mac
+ich habe jetzt das board und programm getestest und es lief alles gut
